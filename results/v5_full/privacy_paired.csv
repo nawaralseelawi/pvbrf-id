@@ -1,0 +1,16 @@
+A,B,scenario,metric,mean_diff,ci95_t,wins,n
+fedavg,faithful_root_t-0.3,none,obs_attr_rho,0.8133928571428571,0.061479792193766966,10,10
+multi_krum,faithful_root_t-0.3,none,obs_attr_rho,0.8085357142857141,0.06621499167912294,10,10
+trimmed_mean,faithful_root_t-0.3,none,obs_attr_rho,0.8109642857142857,0.06304220130234912,10,10
+fedavg,faithful_root_t-0.3,none,obs_top3,0.5,0.06743981020139364,10,10
+multi_krum,faithful_root_t-0.3,none,obs_top3,0.45999999999999996,0.06031999999999999,10,10
+trimmed_mean,faithful_root_t-0.3,none,obs_top3,0.48999999999999994,0.07871991107718554,10,10
+fedavg,faithful_root_t-0.3,none,obs_topo_rho,0.27498023715415004,0.09530643773002602,10,10
+multi_krum,faithful_root_t-0.3,none,obs_topo_rho,0.06557312252964423,0.10097202057455783,7,10
+trimmed_mean,faithful_root_t-0.3,none,obs_topo_rho,0.24333333333333323,0.08408155159835423,10,10
+fedavg,faithful_root_t-0.3,none,obs_topo_b2_rho,0.25845849802371534,0.08328800536788564,10,10
+multi_krum,faithful_root_t-0.3,none,obs_topo_b2_rho,0.30587615283267455,0.09114082158335778,10,10
+trimmed_mean,faithful_root_t-0.3,none,obs_topo_b2_rho,0.261897233201581,0.09527996074617981,10,10
+fedavg,faithful_root_t-0.3,none,obs_nn_hit,0.31,0.1367632128900166,9,10
+multi_krum,faithful_root_t-0.3,none,obs_nn_hit,0.35,0.14405149773605275,9,10
+trimmed_mean,faithful_root_t-0.3,none,obs_nn_hit,0.27999999999999997,0.13821048295986813,8,10

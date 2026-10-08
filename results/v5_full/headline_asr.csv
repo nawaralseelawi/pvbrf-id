@@ -1,0 +1,12 @@
+arm,backdoor,backdoor_boost
+fedavg,1.000 +/- 0.001,1.000 +/- 0.000
+trimmed_mean,0.054 +/- 0.051,0.056 +/- 0.054
+multi_krum,0.401 +/- 0.369,0.004 +/- 0.008
+secure_norm_only,1.000 +/- 0.001,0.901 +/- 0.071
+faithful_root_t-0.3,1.000 +/- 0.001,0.872 +/- 0.076
+faithful_root_t0.0,1.000 +/- 0.000,0.756 +/- 0.127
+faithful_root_t-0.3_clip,0.993 +/- 0.009,0.048 +/- 0.048
+faithful_root_t-0.3_clipnoise_z0.5,0.992 +/- 0.007,0.162 +/- 0.204
+faithful_root_t-0.3_all_z0.5,0.411 +/- 0.193,0.009 +/- 0.017
+faithful_root_t-0.3_all_z1.0,0.150 +/- 0.069,0.002 +/- 0.002
+faithful_root_t-0.3_all_z2.0,0.091 +/- 0.034,0.025 +/- 0.022

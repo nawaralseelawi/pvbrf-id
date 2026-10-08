@@ -1,0 +1,75 @@
+{
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "rounds": 30,
+  "scenarios": [
+    "none",
+    "signflip",
+    "labelflip",
+    "targeted_flip",
+    "backdoor",
+    "backdoor_boost",
+    "adaptive",
+    "adaptive_f30"
+  ],
+  "n_sites": 10,
+  "n_byz": 2,
+  "dirichlet_alpha": 0.5,
+  "hidden": 24,
+  "max_features": 80,
+  "use_payload_features": true,
+  "lr": 0.1,
+  "batch": 128,
+  "local_steps": 30,
+  "n_normal": 100000,
+  "n_per_attack": 10000,
+  "root_size": 1500,
+  "test_frac": 0.2,
+  "krum_f": 3,
+  "trim_k": 3,
+  "kappa": 3.5,
+  "kappa_sweep": [
+    1.5,
+    2.5,
+    5.0
+  ],
+  "taus_prev": [
+    0.0
+  ],
+  "taus_root": [
+    -0.3,
+    0.0
+  ],
+  "backdoor_frac": 0.5,
+  "trigger_k": 3,
+  "trigger_val": 4.0,
+  "boost": 3.0,
+  "mitigation": true,
+  "mit_clip": 1.0,
+  "mit_z_list": [
+    0.5,
+    1.0,
+    2.0
+  ],
+  "mit_agg": 3.0,
+  "dp_delta": 1e-05,
+  "obs_rounds": 10,
+  "arm_filter": null,
+  "kappa_used": 3.5,
+  "honest_norm_ratio_pct": {
+    "p50": 1.22,
+    "p90": 1.595,
+    "p99": 1.925,
+    "p100": 2.072
+  }
+}

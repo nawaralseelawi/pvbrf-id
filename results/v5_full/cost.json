@@ -1,0 +1,35 @@
+{
+  "model_dim": 2319,
+  "n_sites": 10,
+  "audit_ok": true,
+  "inclusion_proofs_ok": true,
+  "accepted": 10,
+  "bytes_by_phase": {
+    "upload": 743040,
+    "open_check": 0,
+    "secure_tests": 986560,
+    "offline": 743040,
+    "aggregate": 74240,
+    "publish": 68
+  },
+  "secs_by_phase": {
+    "upload": 0.0,
+    "open_check": 7.709,
+    "secure_tests": 0.047,
+    "offline": 0.0,
+    "aggregate": 0.0,
+    "publish": 0.0
+  },
+  "client_commit_and_share_secs_total": 7.871,
+  "server_round_secs": 7.764,
+  "audit_secs": 0.759,
+  "total_online_bytes": 1803908,
+  "placeholder_comparison_bytes": 243840,
+  "online_bytes_excluding_placeholder": 1560068,
+  "plain_fedavg_upload_bytes_float32": 92760,
+  "ratio_vs_plain": 19.45,
+  "ratio_vs_plain_excluding_placeholder": 16.82,
+  "offline_triple_bytes": 743040,
+  "ideal_clip_extra_online_bytes_estimate": 742080,
+  "ratio_vs_plain_with_ideal_clip": 27.45
+}

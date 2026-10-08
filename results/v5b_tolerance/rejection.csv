@@ -1,0 +1,9 @@
+,byz_rej,byz_rej,honest_rej,honest_rej
+scenario,adaptive_tol,adaptive_tol_f30,adaptive_tol,adaptive_tol_f30
+arm,,,,
+multi_krum,0.9983333333333334,0.9955555555555555,0.12541666666666668,0.001904761904761905
+secure_norm_only,0.0,0.0,0.0,0.0
+faithful_root_t-0.3,0.0,0.0,0.012083333333333331,0.025238095238095237
+faithful_root_t-0.3_clip,0.0,0.0,0.007916666666666666,0.004285714285714286
+faithful_root_t-0.3_clipnoise_z0.5,0.0,0.0,0.003333333333333333,0.0009523809523809525
+faithful_root_t-0.3_all_z1.0,0.0,0.0,0.0,0.0

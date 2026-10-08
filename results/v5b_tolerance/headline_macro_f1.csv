@@ -1,0 +1,9 @@
+arm,adaptive_tol,adaptive_tol_f30
+fedavg,0.393 +/- 0.062,0.046 +/- 0.026
+trimmed_mean,0.649 +/- 0.023,0.597 +/- 0.030
+multi_krum,0.683 +/- 0.021,0.693 +/- 0.011
+secure_norm_only,0.398 +/- 0.063,0.039 +/- 0.023
+faithful_root_t-0.3,0.645 +/- 0.022,0.571 +/- 0.033
+faithful_root_t-0.3_clip,0.665 +/- 0.019,0.641 +/- 0.027
+faithful_root_t-0.3_clipnoise_z0.5,0.665 +/- 0.020,0.643 +/- 0.027
+faithful_root_t-0.3_all_z1.0,0.632 +/- 0.029,0.592 +/- 0.042
